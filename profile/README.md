@@ -12,7 +12,7 @@ Our research interests are in the area of planning for high degrees of freedom r
 
 
 ### Resources
-We have prepared a document that consists of the [recommended learning](../resource/Recommend_Learning.pdf) required for all current and prospective CAM members
+We have prepared a document that consists of the [recommended learning](https://github.com/RROS-Lab/.github/blob/main/resource/Recommend_Learning.pdf) required for all current and prospective CAM members
 
 <!--
 
