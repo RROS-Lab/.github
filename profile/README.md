@@ -14,7 +14,8 @@ We are a member of Center for Advanced Manufacturing ([CAM](https://cam.usc.edu/
 
 ### Resources
 1. We have prepared a document that consists of the [recommended learning](https://github.com/RROS-Lab/.github/blob/main/resource/Recommend_Learning.pdf) required for all current and prospective CAM members.
-
+1. [ROS installation guide](https://github.com/RROS-Lab/.github/blob/main/resource/IntsallROS.md)
+1. [Contributor guide](https://github.com/RROS-Lab/.github/blob/main/resource/ContributorGuide.md)
 
 
 <!--
