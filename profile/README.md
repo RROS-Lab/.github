@@ -10,12 +10,12 @@ We are a member of Center for Advanced Manufacturing ([CAM](https://cam.usc.edu/
 [YouTube Channel](https://www.youtube.com/channel/UCO82Tsg5Xc5vP_ZWkax4Wpg)
 
 ### Repositories
-#### Kuka
-- [iiwa_stack_cam](https://github.com/RROS-Lab/iiwa_stack_cam.git)
-
+[Repositories List](https://github.com/RROS-Lab/.github/blob/main/profile/RepoList.md)
 
 ### Resources
-We have prepared a document that consists of the [recommended learning](https://github.com/RROS-Lab/.github/blob/main/resource/Recommend_Learning.pdf) required for all current and prospective CAM members.
+1. We have prepared a document that consists of the [recommended learning](https://github.com/RROS-Lab/.github/blob/main/resource/Recommend_Learning.pdf) required for all current and prospective CAM members.
+
+
 
 <!--
 
