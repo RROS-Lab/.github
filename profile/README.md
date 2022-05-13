@@ -10,7 +10,7 @@ We are a member of Center for Advanced Manufacturing ([CAM](https://cam.usc.edu/
 [YouTube Channel](https://www.youtube.com/channel/UCO82Tsg5Xc5vP_ZWkax4Wpg)
 
 ### Repositories
-[Repositories List](https://github.com/RROS-Lab/.github/blob/main/profile/RepoList.md)
+[Repository List](https://github.com/RROS-Lab/.github/blob/main/profile/RepoList.md)
 
 ### Resources
 1. We have prepared a document that consists of the [recommended learning](https://github.com/RROS-Lab/.github/blob/main/resource/Recommend_Learning.pdf) required for all current and prospective CAM members.
