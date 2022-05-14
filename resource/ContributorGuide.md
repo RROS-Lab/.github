@@ -1,15 +1,24 @@
 ## Contributor Guide
 
+[RROS Home](https://github.com/RROS-Lab)
+
+
 Welcome to RROS ~
   
 ### Create a Repository on GitHub
 1. It is highly recommended to use the template repository [rros-template-repo](https://github.com/RROS-Lab/rros-template-repo) when you create a new repository.
-![pic2](./pic/CG2.png)
 
-1. Add the "admin" team to your new repository.
-![pic1](./pic/CG1.png)
 
-1. If the new repository is public, please contact any member in the admin team so we can update the repository list.
+<p style="text-align: center;">
+  <img src="./pic/CG2.png"  width="600" />
+</p>
+
+2. Add the "admin" team to your new repository.
+<p style="text-align: center;">
+  <img src="./pic/CG1.png"  width="600" />
+</p>
+
+3. If the new repository is public, please contact any member in the admin team so we can update the repository list.
 
 
 ### Bind Local Repository with Remote Repository
@@ -32,3 +41,6 @@ Now you have already create a remote repository on the GitHub, the next step is 
     Save your work first  
     Then run:  
     `git remote set-url origin [your NEW remote repository link]`
+
+
+
