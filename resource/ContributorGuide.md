@@ -16,14 +16,14 @@ Hi! Welcome to RROS ~
 1. It is highly recommended to use the template repository [rros_template_repo](https://github.com/RROS-Lab/rros_template_repo) when you create a new repository.
 
 
-<p style="text-align: center;">
+<div align=center>
   <img src="./pic/CG2.png"  width="600" />
-</p>
+</div>
 
 2. Add the "admin" team to your new repository.
-<p style="text-align: center;">
+<div align=center>
   <img src="./pic/CG1.png"  width="600" />
-</p>
+</div>
 
 
 
