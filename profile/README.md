@@ -1,4 +1,4 @@
-## Hi there 👋
+## Welcome to RROS-Lab USC's GitHub Page!👋
 
 ### Introduction
 The Realization of RObotic Systems (RROS) laboratory at USC is a facility for graduate and undergraduate robotics research and education with an emphasis on studying the motion of robotic systems for a variety of practical applications. 
