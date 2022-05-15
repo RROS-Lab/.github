@@ -13,7 +13,7 @@ Hi! Welcome to RROS ~
 
 
 ### Create a Repository on GitHub
-1. It is highly recommended to use the template repository [rros_template_repo](https://github.com/RROS-Lab/rros_template_repo) when you create a new **private** repository.
+1. It is highly recommended to use the template repository [rros_template_repo](https://github.com/RROS-Lab/rros_template_repo) when you create a new repository (should be **private** when developing).
 
 
 <div align=center>
@@ -67,9 +67,11 @@ Now you have already create a remote repository on the GitHub, the next step is 
 
 1. Please contact any member in the [admin team](https://github.com/orgs/RROS-Lab/teams/admin) so we can update the repository list.
 
-1. Delete ".gitignore" file
+1. Delete the ".gitignore" file
 
-1. Write a README
+1. Write the README
+
+1. Add a ".rosinstall" file if necesary
 
 
 
