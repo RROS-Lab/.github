@@ -8,16 +8,17 @@ Hi! Welcome to RROS ~
 ### Content
 - [Create a Repository on GitHub](#create-a-repository-on-github)
 - [Bind Local with Remote](#bind-local-repository-with-remote-repository)
+- [Manage Branches and Pull Request](#manage-branches-and-pull-request)
 - [Make a Repository Public](#make-a-repository-public)
-- [Manage Branches](#manage-branches)
 
 
 ### Create a Repository on GitHub
-1. It is highly recommended to use the template repository [rros_template_repo](https://github.com/RROS-Lab/rros_template_repo) when you create a new repository.
+1. It is highly recommended to use the template repository [rros_template_repo](https://github.com/RROS-Lab/rros_template_repo) when you create a new **private** repository.
 
 
 <div align=center>
-  <img src="./pic/CG2.png"  width="600" />
+  <img src="./pic/CG0_1.png"  width="800" />
+  <img src="./pic/CG0_2.png"  width="800" />
 </div>
 
 2. Add the "admin" team to your new repository.
@@ -49,6 +50,18 @@ Now you have already create a remote repository on the GitHub, the next step is 
     `git remote set-url origin [your NEW remote repository link]`
 
 
+### Manage Branches and Pull Request
+
+1. For any new feature, we highly recommended you start a new branch and work on it (to make the main branch clean).   
+
+    For example, if you want to develop a feature "dance" on a robot. After talking with the project manager, you can add a new branch in the local repo, e.g.,"feature/dance" by using  
+    `git checkout -b feature/dance`  
+    Then you can work on it ( `git pull` / `git rebase` /`git add` / `git commit`)
+
+1. If you finished your work and the code has passed all the tests, push your branch to GitHub and [make a pull request](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request). After the pull request is approved, merge your branch to the main branch **online**, if necessary, [address the conflicts](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/addressing-merge-conflicts/resolving-a-merge-conflict-on-github).  
+    
+1. After updating the main branch, you can delete the feature branch on the GitHub and in your local repository
+
 
 ### Make a Repository Public
 
@@ -57,27 +70,6 @@ Now you have already create a remote repository on the GitHub, the next step is 
 1. Delete ".gitignore" file
 
 1. Write a README
-
-
-### Manage Branches
-
-1. For any new feature, we highly recommended you start a new brach and work on it (to make the main branch clean).   
-
-    For example, if you want to develop a feature "dance" on a robot. After talking with the project manager, you can add a new branch in the local repo, e.g.,"feature/dance" by using  
-    `git checkout -b feature/dance`  
-    Then you can work on it (`git add` / `git commit`)
-
-1. If you finished your work and the code has passed all the tests, inform the project manager, and push your branch to GitHub. Then you can merge your branch to the main branch.  
-    
-    - switch to the main brach using  
-        `git checkout main`  
-    - merge branch using  
-      `git merge --squash feature/dance`  
-      `git commit -m "merge branch feature/dance to main"`  
-      `git push`
-
-
-
 
 
 
