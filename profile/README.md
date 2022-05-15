@@ -5,7 +5,7 @@ The Realization of RObotic Systems (RROS) laboratory at USC is a facility for gr
 
 Our research interests are in the area of planning for high degrees of freedom robotic systems, motion planning of unmanned surface vehicles (USVs), physics aware decision making for multi-robot systems, and self-directed learning.
 
-We are a member of Center for Advanced Manufacturing ([CAM](https://cam.usc.edu/))
+We are a member of USC Center for Advanced Manufacturing ([CAM](https://cam.usc.edu/))
 
 [YouTube Channel](https://www.youtube.com/channel/UCO82Tsg5Xc5vP_ZWkax4Wpg)
 
@@ -14,7 +14,7 @@ We are a member of Center for Advanced Manufacturing ([CAM](https://cam.usc.edu/
 
 ### Resources
 1. We have prepared a document that consists of the [recommended learning](https://github.com/RROS-Lab/.github/blob/main/resource/Recommend_Learning.pdf) required for all current and prospective CAM members.
-1. [ROS installation guide](https://github.com/RROS-Lab/.github/blob/main/resource/IntsallROS.md)
+1. [ROS guide](https://github.com/RROS-Lab/.github/blob/main/resource/ROSGuide.md)
 1. [Contributor guide](https://github.com/RROS-Lab/.github/blob/main/resource/ContributorGuide.md)
 
 

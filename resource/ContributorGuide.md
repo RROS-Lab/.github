@@ -3,10 +3,17 @@
 [RROS Home](https://github.com/RROS-Lab)
 
 
-Welcome to RROS ~
-  
+Hi! Welcome to RROS ~
+
+### Content
+- [Create a Repository on GitHub](#create-a-repository-on-github)
+- [Bind Local with Remote](#bind-local-repository-with-remote-repository)
+- [Make a Repository Public](#make-a-repository-public)
+- [Manage Branches](#manage-branches)
+
+
 ### Create a Repository on GitHub
-1. It is highly recommended to use the template repository [rros-template-repo](https://github.com/RROS-Lab/rros-template-repo) when you create a new repository.
+1. It is highly recommended to use the template repository [rros_template_repo](https://github.com/RROS-Lab/rros_template_repo) when you create a new repository.
 
 
 <p style="text-align: center;">
@@ -18,7 +25,6 @@ Welcome to RROS ~
   <img src="./pic/CG1.png"  width="600" />
 </p>
 
-3. If the new repository is public, please contact any member in the admin team so we can update the repository list.
 
 
 ### Bind Local Repository with Remote Repository
@@ -41,6 +47,39 @@ Now you have already create a remote repository on the GitHub, the next step is 
     Save your work first  
     Then run:  
     `git remote set-url origin [your NEW remote repository link]`
+
+
+
+### Make a Repository Public
+
+1. Please contact any member in the [admin team](https://github.com/orgs/RROS-Lab/teams/admin) so we can update the repository list.
+
+1. Delete ".gitignore" file
+
+1. Write a README
+
+
+### Manage Branches
+
+1. For any new feature, we highly recommended you start a new brach and work on it (to make the main branch clean).   
+
+    For example, if you want to develop a feature "dance" on a robot. After talking with the project manager, you can add a new branch in the local repo, e.g.,"feature/dance" by using  
+    `git checkout -b feature/dance`  
+    Then you can work on it (`git add` / `git commit`)
+
+1. If you finished your work and the code has passed all the tests, inform the project manager, and push your branch to GitHub. Then you can merge your branch to the main branch.  
+    
+    - switch to the main brach using  
+        `git checkout main`  
+    - merge branch using  
+      `git merge --squash feature/dance`  
+      `git commit -m "merge branch feature/dance to main"`  
+      `git push`
+
+
+
+
+
 
 
 
