@@ -71,7 +71,7 @@ Now you have already create a remote repository on the GitHub, the next step is 
 
 1. Write the README
 
-1. Add a ".rosinstall" file if necesary
+1. Add a ".rosinstall" file if necessary
 
 
 
